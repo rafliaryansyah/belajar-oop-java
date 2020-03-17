@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZAWyyUUG7HDHyBMwJeYJSqSclp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584282636770</updated>
       <workItem from="1584282638189" duration="1022000" />
+      <workItem from="1584428332508" duration="7000" />
     </task>
     <servers />
   </component>
@@ -59,5 +63,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="43" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1584282672354" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1584428334435">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584428334435" />
   </component>
 </project>
